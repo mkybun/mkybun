@@ -1,4 +1,4 @@
-### Hi there, nice to meet ya! My name is Karina and I am currently doing the Grace Hopper Program! 👋 
+### Hi there, nice to meet ya! My name is Karina and I am currently on the job search! 👋 
 
 - 😄 Pronouns: she/her
 - 🔭 Checkout a really cool project I was a part of: [click me!](https://www.youtube.com/watch?v=ZnTJXJw4Izo&list=PLx0iOsdUOUmnPA9l9RyeENObqv4SJi-_S&index=15)
