@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: she/her
 - 🔭 Checkout a really cool project I was a part of: [Video](https://www.youtube.com/watch?v=ZnTJXJw4Izo&list=PLx0iOsdUOUmnPA9l9RyeENObqv4SJi-_S&index=15) || [Repo](https://github.com/GH-Squirtle-Squad/tagged)
-- Currently working on a cool project involving cocktails🍸 using JS/React 
+- Currently working on learning Kotlin & Android Studio! 
 - 💬 Ask me about: My dog Yanna! She's the best!
 -  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karina-zuniga/)
 
